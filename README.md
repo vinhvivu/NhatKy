@@ -1,5 +1,7 @@
 * App: Nhật ký
+
 *Giới thiệu:V ới app Nhật kí này, bạn có thể viết nhiều bài nhật kí trong một ngày. Lưu lại những công việc cần làm và đã làm.
+
 *Chức năng: Thêm sửa xóa dữ liệu trên firebase
 
 
